@@ -1,0 +1,1 @@
+LEGENDS GRADING: subir index.html y carpeta assets al repositorio GitHub Pages. Abrir index.html localmente para editar. Para QR necesita internet. Impresión: escala 100%, gráficos de fondo activados. Diseños derivados de las fotografías suministradas, con campos de texto cubiertos y reconstruidos; no son archivos vectoriales originales.
